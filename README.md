@@ -33,12 +33,8 @@ Focused on building clean, scalable, real-world web applications.
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 
 
+## 🔧 Currently Working On
+- Improving backend architecture for MERN apps  
+- Writing clean REST APIs with authentication  
+- Building production-ready React UIs  
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-dharmendra&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-dharmendra&layout=compact&theme=dark&hide_border=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=its-dharmendra&theme=dark&hide_border=true)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=its-dharmendra&icon=0&color=0)
